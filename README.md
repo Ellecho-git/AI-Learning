@@ -5,7 +5,6 @@
 
 [![Stars](https://gitee.com/ellecho/ai-learning/badge/star.svg?theme=dark)](https://gitee.com/ellecho/ai-learning/stargazers)
 [![Forks](https://gitee.com/ellecho/ai-learning/badge/fork.svg?theme=dark)](https://gitee.com/ellecho/ai-learning/members)
-[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 ## 📝 仓库简介
 
