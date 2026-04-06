@@ -3,6 +3,10 @@
 > 一个普通人的AI学习记录 🌱
 这是我的个人学习笔记仓库，记录我从零开始学习AI大模型的过程。
 
+[![GitHub stars](https://img.shields.io/github/stars/Ellecho-git/AI-Learning?style=flat-square&logo=github)](https://github.com/Ellecho-git/AI-Learning/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Ellecho-git/AI-Learning?style=flat-square&logo=github)](https://github.com/Ellecho-git/AI-Learning/forks)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square&logo=creativecommons)](https://github.com/Ellecho-git/AI-Learning/blob/main/LICENSE)
+
 ## 📝 仓库简介
 
 - **学习日志**：每节课学了什么，有什么感悟，都记在这里
